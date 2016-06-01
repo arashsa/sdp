@@ -1,0 +1,113 @@
+Representation type: DM
+# Evaluation
+
+Gold standard file: ../test/en.id.dm.sdp
+System output file: Lisbon/en.id.closed.dm.1.sdp
+
+## Scores including virtual dependencies to top nodes
+
+### Labeled scores
+
+Number of edges in gold standard: 24813
+Number of edges in system output: 23928
+Number of edges in common: 21498
+
+LP: 0.898445
+LR: 0.866401
+LF: 0.882132
+LM: 0.221986
+
+### Unlabeled scores
+
+Number of unlabeled edges in gold standard: 24813
+Number of unlabeled edges in system output: 23928
+Number of unlabeled edges in common: 21806
+
+UP: 0.911317
+UR: 0.878814
+UF: 0.894770
+UM: 0.243262
+
+### Complete predications
+
+Number of complete predications in gold standard: 3459
+Number of complete predications in system output: 3418
+Number of complete predications in common: 2318
+
+PP: 0.678174
+PR: 0.670136
+PF: 0.674131
+
+### Semantic frames
+
+Number of semantic frames in gold standard: 3459
+Number of semantic frames in system output: 3418
+Number of semantic frames in common: 5
+
+FP: 0.001463
+FR: 0.001446
+FF: 0.001454
+
+### Senses
+
+Number of senses in gold standard: 3459
+Number of senses in system output: 3418
+Number of senses in common: 5
+
+SP: 0.001463
+SR: 0.001446
+SF: 0.001454
+
+## Scores excluding virtual dependencies to top nodes
+
+### Labeled scores
+
+Number of edges in gold standard: 23406
+Number of edges in system output: 22526
+Number of edges in common: 20258
+
+LP: 0.899316
+LR: 0.865505
+LF: 0.882087
+LM: 0.228369
+
+### Unlabeled scores
+
+Number of unlabeled edges in gold standard: 23406
+Number of unlabeled edges in system output: 22526
+Number of unlabeled edges in common: 20566
+
+UP: 0.912989
+UR: 0.878664
+UF: 0.895498
+UM: 0.251064
+
+### Complete predications
+
+Number of complete predications in gold standard: 3459
+Number of complete predications in system output: 3418
+Number of complete predications in common: 2318
+
+PP: 0.678174
+PR: 0.670136
+PF: 0.674131
+
+### Semantic frames
+
+Number of semantic frames in gold standard: 3459
+Number of semantic frames in system output: 3418
+Number of semantic frames in common: 5
+
+FP: 0.001463
+FR: 0.001446
+FF: 0.001454
+
+### Senses
+
+Number of senses in gold standard: 3459
+Number of senses in system output: 3418
+Number of senses in common: 5
+
+SP: 0.001463
+SR: 0.001446
+SF: 0.001454

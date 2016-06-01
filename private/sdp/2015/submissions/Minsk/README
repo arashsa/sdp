@@ -1,0 +1,41 @@
+Team identifier (provided by SemEval organizers);
+	Minsk
+
+Team member name(s) and affiliation(s);
+	Artsiom Artsymenia (IHS Inc.)
+	
+Designated contact person and email address;
+	Artsiom Artsymenia (Artsiom.Artsymenia@ihs.com)
+
+Inventory of results files included in the archive;
+	cz.id.closed.pas.1.sdp
+	en.id.closed.dm.1.sdp
+	en.id.closed.pas.1.sdp
+	en.id.closed.psd.1.sdp
+	en.ood.closed.dm.1.sdp
+	en.ood.closed.pas.1.sdp
+	en.ood.closed.psd.1.sdp
+	cz.id.closed.pas.2.sdp
+	en.id.closed.dm.2.sdp
+	en.id.closed.pas.2.sdp
+	en.id.closed.psd.2.sdp
+	en.ood.closed.dm.2.sdp
+	en.ood.closed.pas.2.sdp
+	en.ood.closed.psd..sdp
+
+System characteristics, including (if applicable):
+	core approach;
+		Transition-based dependency graph parsing (Titov et al., 2009)
+	important features;
+		bootstrapping automatic parses in terms of Choi and Palmer (2011) or dynamic oracle in terms of Goldberg and Nivre (2012)
+	critical tools used;
+		maximum entropy classifier
+	data pre- or post-processing;
+		none
+	additional data used.
+		none
+
+Bibliographic references (if applicable).
+	I. Titov, J. Henderson, P. Merlo and G. Musillo (2009). Online Graph Planarisation for Synchronous Parsing of Semantic and Syntactic Dependencies. In Proceedings of IJCAI 2009, Pasadena, CA.
+	Choi, J. D. and Palmer, M. (2011). Getting the most out of transition-based dependency parsing. In Proceedings of the 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, pages 687–692.
+	Yoav Goldberg and Joakim Nivre (2012). A dynamic oracle for arc-eager dependency parsing. In Proceedings of the 24th International Conference on Computational Linguistics (COLING).

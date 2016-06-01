@@ -1,0 +1,43 @@
+Team ID:
+    Peking
+
+Team affiliation:
+    Institute of Computer Science and Technology of Peking University
+
+Team members:
+    Weiwei Sun (ws@pku.edu.cn)
+    Yantao Du (duyantao@pku.edu.cn)
+    Xun Zhang (zhangxunah@pku.edu.cn)
+
+Designated contact person:
+    Weiwei Sun (ws@pku.edu.cn)
+
+Files included in the archieve:
+    en.id.closed.dm.1.sdp
+    en.id.closed.pas.1.sdp
+    en.id.closed.psd.1.sdp
+    cz.id.closed.pas.1.sdp
+    cs.id.closed.psd.1.sdp
+    en.ood.closed.dm.1.sdp
+    en.ood.closed.pas.1.sdp
+    en.ood.closed.psd.1.sdp
+    cs.ood.closed.psd.1.sdp
+    en.id.closed.dm.2.sdp
+    en.id.closed.pas.2.sdp
+    en.id.closed.psd.2.sdp
+    cz.id.closed.pas.2.sdp
+    cs.id.closed.psd.2.sdp
+    en.ood.closed.dm.2.sdp
+    en.ood.closed.pas.2.sdp
+    en.ood.closed.psd.2.sdp
+    cs.ood.closed.psd.2.sdp
+
+System characteristics:
+    |--Core approach: Model ensamble
+    |--Important features: Two kinds of parsers are combined. One is our own 
+    transition-based dependency graph parsers, each with different transition 
+    systems, the other is tree approximation algorithms with mate-tools.
+    |--Critical tools: mate-tools (we use the denpendency tree parser in it)
+    |--Data pre- or post- processing: none
+    |--Additional data used: none
+

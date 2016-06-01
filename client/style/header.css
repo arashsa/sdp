@@ -1,0 +1,13 @@
+.header {
+  padding-top: 1%;
+  padding-left: 2%;
+  padding-right: 2%;
+  background-color: lightblue;
+  border-bottom: solid black;
+  margin-bottom: 20px;
+}
+
+.home,
+.about {
+  cursor: pointer;
+}

@@ -1,0 +1,342 @@
+#22100013
+1	Blair	Blair	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Entertainment	_generic_proper_ne_	NNP	-	-	named:x-c	compound	_	_	_	appos	_	_	_	_	_	ARG1	_	_	_	_	ARG1	_
+3	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	New	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	York	York	NNP	-	+	named:x-c	_	_	compound	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	firm	firm	NN	-	+	n:x	_	BV	_	compound	_	ARG1	_	ARG1	_	_	_	_	_	_	_	_	_
+8	that	that	WDT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	advises	advise	VBZ	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	TV	tv	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	stations	station	NNS	-	-	n:x	_	_	_	_	_	ARG2	compound	_	_	_	_	_	_	_	_	_	_
+12	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	sells	sell	VBZ	-	+	v:e-i-p	_	_	_	_	_	_and_c	_	_	_	_	_	_	_	_	_	_	_
+14	ads	ad	NNS	-	-	n:x	_	_	_	_	_	_	_	ARG2	ARG1	_	_	_	_	_	_	_	_
+15	for	for	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	them	them	PRP	-	-	pron:x	_	_	_	_	_	_	_	_	ARG2	_	_	_	_	_	_	_	_
+17	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	has	has	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	just	just	RB	-	+	a:e-e	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	formed	form	VBN	-	+	v_cause:e-i-p	_	_	_	_	_	_	_	_	_	ARG1	_	_	_	_	ARG1	_	_
+21	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	subsidiary	subsidiary	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	ARG2	BV	_	appos	_	_	_
+23	–	–	:	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	Blair	Blair	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	compound	_	_	_	_
+26	–	–	:	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+27	to	to	TO	+	+	x:e-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	apply	apply	VB	-	+	v_to:e-i-p-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	_
+29	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	technology	technology	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	BV
+31	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	television	television	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG3	_
+33	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100014
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_
+2	use	use	NN	-	+	n_of:x-i	BV	_	_	_	ARG1	_	_	_
+3	of	of	IN	-	-	_	_	_	_	_	_	_	_	_
+4	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_
+5	toll	toll	NN	-	+	n:x	_	_	_	_	_	_	_	_
+6	numbers	number	NNS	-	-	n_of:x	_	ARG1	compound	compound	_	_	_	_
+7	has	has	VBZ	-	-	_	_	_	_	_	_	_	_	_
+8	been	been	VBN	-	-	_	_	_	_	_	_	_	_	_
+9	expanding	expand	VBG	+	+	v:e-i	_	_	_	_	_	ARG1	ARG1	_
+10	rapidly	rapidly	RB	-	+	a:e-e	_	_	_	_	_	_	_	_
+11	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_
+12	recent	recent	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_
+13	years	year	NNS	-	-	n:x	_	_	_	_	_	_	ARG2	ARG1
+14	.	_	.	-	-	_	_	_	_	_	_	_	_	_
+
+#22100016
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	cost	cost	NN	-	-	n:x	BV	ARG1	_	_	ARG2	_	_	_	_	_	_	_	_
+3	of	of	IN	-	+	p:e-x-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	call	call	NN	-	-	n:x	_	ARG2	BV	compound	_	_	_	_	_	_	_	_	_
+7	is	is	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	set	set	VBN	-	+	v:e-i-p	_	_	_	_	_	_	_	_	ARG1	_	_	_	_
+9	by	by	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	originator	originator	NN	-	-	n_of:x-i	_	_	_	_	ARG1	BV	_	appos	_	_	_	_	_
+12	–	–	:	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	ABC	ABC	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	Sports	_generic_proper_ne_	NNPS	-	+	named:x-c	_	_	_	_	_	_	compound	_	_	_	_	_	_
+15	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	for	for+example	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	example	for+example	NN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	–	–	:	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	with	with	IN	+	+	x:e-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	cheapest	cheapest	JJS	-	-	a:e-i	_	_	_	_	_	_	_	_	_	BV	ARG1	_	_
+22	starting	start	NN	-	+	v:e-i	_	_	_	_	_	_	_	_	ARG2	_	_	ARG1	_
+23	at	at	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	75	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	cents	cent	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+26	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100017
+1	Billing	billing	NN	-	-	n:x	ARG2	ARG1	_	_	_	_
+2	is	is	VBZ	-	-	_	_	_	_	_	_	_
+3	included	include	VBN	+	+	v:e-i-p-h	_	_	_	_	_	_
+4	in	in	IN	-	+	p:e-u-i	ARG3	_	_	_	_	_
+5	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_
+6	caller	caller	NN	-	+	n_of:x-i	_	_	BV	_	_	_
+7	’s	’s	POS	-	-	_	_	_	_	_	_	_
+8	regular	regular	JJ	-	+	a:e-p	_	_	_	_	_	_
+9	phone	phone	NN	-	+	n:x	_	_	_	_	_	_
+10	bill	bill	NN	-	-	n_of:x-i	_	ARG2	_	poss	ARG1	compound
+11	.	_	.	-	-	_	_	_	_	_	_	_
+
+#22100018
+1	From	from	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	fee	fee	NN	-	-	n:x	BV	_	_	_	_	_	_	ARG3	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	local	local	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	phone	phone	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	company	company	NN	-	+	n_of:x-i	_	BV	ARG1	compound	_	_	_	ARG1	_	_	_	_	_	_	_	_	_	_	_	_
+9	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	long-distance	distance	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	carrier	carrier	NN	-	-	n_of:x-i	_	_	_	_	_and_c	BV	compound	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	extract	extract	VB	-	+	v_from:e-i-p-i	_	_	_	_	_	_	_	_	_	_	_	subord	_	_	_	_	_	_	_	_
+14	their	their	PRP$	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	costs	cost	NNS	-	-	n:x	_	_	_	_	_	_	_	ARG2	poss	_	_	_	_	_	_	_	_	_	_	_
+16	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	carry	carry	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	call	call	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	ARG2	BV	_	_	_	_	_	_	_	_	_
+20	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	passing	pass	VBG	+	+	v:e-i-i-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	rest	rest	NN	-	+	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	ARG2	BV	_	_	_	_	_	_	_
+24	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	money	money	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG1	BV	_	_	_	_	_
+27	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	originator	originator	NN	-	-	n_of:x-i	_	_	_	_	_	_	_	_	_	_	_	ARG3	_	_	_	BV	_	ARG1	_	_
+30	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+31	which	which	WDT	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+32	must	must	MD	-	+	v_modal:e-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+33	cover	cover	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG1	_	_	_
+34	advertising	advertising	NN	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	_
+35	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+36	other	other	JJ	-	+	a:e-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+37	costs	cost	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_and_c	ARG1
+38	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100019
+1	In	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_
+2	recent	recent	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_
+3	months	month	NNS	-	-	n:x	ARG2	ARG1	_	_	_	_	_	_	_	_
+4	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+6	technology	technology	NN	-	-	n:x	_	_	BV	ARG1	_	ARG1	ARG1	ARG1	_	_
+7	has	has	VBZ	-	-	_	_	_	_	_	_	_	_	_	_	_
+8	become	become	VBN	+	+	v_id:e-i-h	ARG1	_	_	_	_	_	_	_	_	_
+9	more	more	RBR	-	+	comp:e-u-u	_	_	_	_	_	_	_	_	_	_
+10	flexible	flexible	JJ	-	+	a:e-p	_	_	_	ARG2	comp	_	_	_	_	_
+11	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_
+12	able	able	JJ	-	+	a:e-i-h	_	_	_	_	_	_and_c	_	_	_	_
+13	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_
+14	handle	handle	VB	-	+	v:e-i-p	_	_	_	_	_	_	ARG2	_	_	_
+15	much	much	RB	-	+	x:e-u	_	_	_	_	_	_	_	_	_	_
+16	more	more	JJR	-	+	much-many_a:e-i	_	_	_	_	_	_	_	_	ARG1	_
+17	volume	volume	NN	-	-	n_of:x-i	_	_	_	_	_	_	_	ARG2	_	ARG1
+18	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_
+
+#22100020
+1	Before	before	IN	-	+	p:e-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	callers	caller	NNS	-	+	n_of:x-i	_	_	_	_	_	ARG1	ARG1	BV	_	ARG1	_	_	_	_
+4	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	numbers	number	NNS	-	-	n_of:x	_	ARG1	compound	_	_	_	_	_	_	_	_	_	_	_
+7	would	would	MD	+	+	v_modal:e-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	just	just	RB	-	+	a:e-e	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	listen	listen	VB	-	+	v_to:e-i	ARG1	_	_	ARG1	ARG1	_	_	_	ARG1	_	ARG1	_	_	_
+10	and	and+not	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	not	and+not	RB	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	talk	talk	VB	-	+	v_about:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+14	or	or	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+15	they	they	PRP	-	+	pron:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	’d	’d	MD	-	+	v_modal:e-h	_	_	_	_or_c	_	_	_	_	_	_	_	_	_	_
+17	vote	vote	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	“	_	``	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	yes	yes	UH	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+20	”	_	''	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	or	or	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	“	_	``	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	no	no	UH	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+24	”	_	''	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	by	by	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	calling	call	VBG	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_	ARG2	_	_	_
+27	one	one	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	_
+28	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+29	two	two	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+30	numbers	number	NNS	-	-	n_of:x	_	_	_	_	_	_	_	_	_	_	_	_	part	ARG1
+31	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100021
+1	(	_	(	-	-	_	_	_	_	_	_	_
+2	People	people	NNS	-	-	n_of:x-i	ARG1	_	_	ARG1	_	_
+3	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_
+4	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_
+5	phone	phone	NN	-	+	n:x	_	_	_	_	_	_
+6	business	business	NN	-	-	n:x	ARG2	BV	compound	_	_	_
+7	call	call	VBP	+	+	v:e-i-i-i	_	_	_	_	_	_
+8	this	this	DT	-	+	q_dem:i-h-h	_	_	_	_	_	_
+9	technology	technology	NN	-	-	n:x	_	_	_	ARG3	BV	_
+10	“	_	``	-	-	_	_	_	_	_	_	_
+11	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_
+12	click	click	NN	-	-	n:x	_	_	_	ARG2	_	compound
+13	.	_	.	-	-	_	_	_	_	_	_	_
+14	”	_	''	-	-	_	_	_	_	_	_	_
+15	)	_	)	-	-	_	_	_	_	_	_	_
+
+#22100022
+1	Now	now	RB	-	+	time_n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+3	callers	caller	NNS	-	-	n_of:x-i	_	ARG2	_	_	_	_	ARG1	_	_	_	_	_	_	_
+4	are	are	VBP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	led	lead	VBN	-	+	v:e-i-p	loc	_	ARG1	_	_	ARG1	_	_	_	_	_	_	_	_
+6	through	through	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	complex	complex	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	menus	menu	NNS	-	-	n:x	_	_	ARG2	ARG1	ARG1	_	_	_	_	_	_	_	_	_
+9	of	of	IN	-	+	p:e-x-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+10	choices	choice	NNS	-	-	n_of:x-i	_	_	_	_	ARG2	_	_	_	_	_	_	_	_	_
+11	to	to	TO	+	+	x:e-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	retrieve	retrieve	VB	-	+	v:e-i-p	_	_	_	_	_	ARG2	_	_	_	_	_	_	_	_
+13	information	information	NN	-	-	n_on-about:x-i	_	_	_	_	_	_	ARG2	ARG2	_	_	_	_	_	_
+14	they	they	PRP	-	-	pron:x	_	_	_	_	_	_	_	ARG1	_	_	_	_	_	_
+15	want	want	VBP	-	+	v:e-i-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+16	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	hardware	hardware	NN	-	-	n:x	_	_	_	_	_	_	_	_	BV	_	ARG1	_	_	_
+20	can	can	MD	-	+	v_modal:e-h	_	_	_	_	_	_and_c	_	_	_	_	_	_	_	_
+21	process	process	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	ARG1	_	_	ARG1	_
+22	10,000	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	calls	call	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1	_	_
+24	in	in	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	90	_generic_card_ne_	CD	-	+	card:i-i-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+26	seconds	second	NNS	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+27	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100023
+1	Up	up+to	IN	-	-	p:e-u-i	mwe	_	_	_	_	_	_	_	_
+2	to	up+to	TO	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_
+3	now	now	RB	-	-	time_n:x	ARG2	_	_	_	_	_	_	_	_
+4	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_
+5	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_	_
+6	numbers	number	NNS	-	-	n_of:x	_	compound	_	ARG2	_	_	_	_	_
+7	have	have	VBP	-	-	_	_	_	_	_	_	_	_	_	_
+8	mainly	mainly	RB	-	+	a:e-e	_	_	_	_	_	_	_	_	_
+9	been	been	VBN	-	-	_	_	_	_	_	_	_	_	_	_
+10	used	use	VBN	+	+	v:e-i-p	ARG1	_	ARG1	_	ARG1	_	_	_	_
+11	on	on	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_
+12	local	local	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_
+13	TV	tv	NN	-	+	n:x	_	_	_	_	_	_	_	_	_
+14	stations	station	NNS	-	+	n:x	_	_	_	_	ARG2	ARG1	compound	_	_
+15	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_
+16	cable	cable	NN	-	+	n:x	_	_	_	_	_	_	_	_	_
+17	channels	channel	NNS	-	-	n:x	_	_	_	_	_	_	_	_and_c	compound
+18	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_
+
+#22100024
+1	MTV	_generic_proper_ne_	NNP	-	-	named:x-c	ARG1	ARG1	_	_	_	_	_	_	_
+2	used	use	VBD	+	+	v:e-i-i-h	_	_	_	_	_	_	_	_	_
+3	one	one	NN	-	-	card:i-i-c	ARG2	_	_	_	_	_	_	_	_
+4	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_
+5	give	give	VB	-	+	v_away:e-i-i	ARG3	_	_	_	_	_	_	_	_
+6	away	away	RP	-	-	_	_	_	_	_	_	_	_	_	_
+7	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_
+8	house	house	NN	-	-	n_of:x-i	_	ARG2	BV	_	_	_	_	_	ARG2
+9	that	that	DT	-	-	_	_	_	_	_	_	_	_	_	_
+10	rock	rock	NN	-	+	n:x	_	_	_	_	_	_	_	_	_
+11	star	star	NN	-	+	n:x	_	_	_	compound	_	_	_	_	_
+12	Jon	Jon	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_
+13	Bon	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	compound	_	_	_
+14	Jovi	_generic_proper_ne_	NNP	-	-	named:x-c	_	_	_	_	compound	_	compound	ARG1	_
+15	grew	grow	VBD	-	+	v_up:e-i	_	_	_	_	_	_	_	_	ARG1
+16	up	up	RP	-	-	_	_	_	_	_	_	_	_	_	_
+17	in	in	RB	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_
+18	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_
+
+#22100026
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_
+2	newest	newest	JJS	-	+	a:e-i	_	_	_	_	_	_	_	_	_
+3	uses	use	NNS	-	+	n_of:x-i	BV	ARG1	_	_	_	ARG1	_	_	_
+4	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_
+5	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_
+6	900-interactive	interactive	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_
+7	technology	technology	NN	-	-	n:x	_	_	ARG1	BV	ARG1	_	_	_	_
+8	demonstrate	demonstrate	VBP	+	+	v_to:e-i-p	_	_	_	_	_	_	_	_	_
+9	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_
+10	growing	grow	VBG	-	+	v:e-i	_	_	_	_	_	_	_	_	_
+11	variety	variety	NN	-	+	n_of-n:x-i	_	_	_	_	_	ARG2	BV	ARG1	_
+12	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_
+13	applications	application	NNS	-	-	n_of:x-i	_	_	_	_	_	_	_	_	ARG1
+14	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_
+
+#22100027
+1	Capital	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+2	Cities/ABC	ABC	NNP	-	+	named:x-c	compound	_	compound	_	_	_	_	_	_	_	_	_	ARG1	_	_	_	_	_	_
+3	Inc.	Inc.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+4	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+5	CBS	CBS	NNP	-	+	named:x-c	_	conj	_	_	compound	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+6	Inc.	Inc.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+7	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+8	General	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+9	Electric	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	compound	_	compound	_	_	_	_	_	_	_	_	_	_	_
+10	Co.	co.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+11	’s	’s	POS	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+12	National	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+13	Broadcasting	_generic_proper_ne_	NNP	-	+	named:x-c	_	_	_	_	_	_	_	_	compound	_	_	_	_	_	_	_	_	_	_
+14	Co.	co.	NNP	-	+	n:x	_	_	_	_	_	_	_	_	_	compound	_	_	_	_	_	_	_	_	_
+15	unit	unit	NN	-	-	n_of:x-i	_	_	_	_and_c	_	_	poss	_	_	_	compound	_	_	_	_	_	_	_	_
+16	are	are	VBP	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+17	expected	expect	VBN	+	+	v:e-i-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+18	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+19	announce	announce	VB	-	+	v_to:e-i-p-i	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	loc	_	_	_	_	_
+20	soon	soon	RB	-	+	time_n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+21	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+22	joint	joint	JJ	-	+	a:e-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+23	campaign	campaign	NN	-	+	n:x-h	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	_	BV	ARG1	_	_	_
+24	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+25	raise	raise	VB	-	+	v_cause:e-i-p	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG1	_	_
+26	awareness	awareness	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2	ARG1
+27	about	about	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+28	hunger	hunger	NN	-	-	n:x	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	ARG2
+29	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_	_
+
+#22100028
+1	The	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+2	subject	subject	NN	-	-	n_of:x-i	BV	ARG2	_	_	_	_	_	_	_	_
+3	will	will	MD	-	-	_	_	_	_	_	_	_	_	_	_	_
+4	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_
+5	written	write	VBN	+	+	v_to:e-i-p	_	_	ARG1	_	_	_	_	_	_	_
+6	into	into	IN	-	+	p:e-u-i	_	_	_	_	_	_	_	_	_	_
+7	the	the	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+8	plots	plot	NNS	-	+	n_of:x-i	_	_	ARG2	BV	_	_	_	_	_	_
+9	of	of	IN	-	-	_	_	_	_	_	_	_	_	_	_	_
+10	prime-time	time	JJ	-	+	n_of:x	_	_	_	_	_	_	_	_	_	_
+11	shows	show	NNS	-	-	n_of:x-i	_	_	_	_	ARG1	compound	_	_	_	_
+12	,	_	,	-	-	_	_	_	_	_	_	_	_	_	_	_
+13	and	and	CC	-	-	_	_	_	_	_	_	_	_	_	_	_
+14	viewers	viewer	NNS	-	-	n_of:x-i	_	_	_	_	_	_	ARG3	_	_	_
+15	will	will	MD	-	-	_	_	_	_	_	_	_	_	_	_	_
+16	be	be	VB	-	-	_	_	_	_	_	_	_	_	_	_	_
+17	given	give	VBN	-	+	v:e-i-i-i	_	_and_c	_	_	_	_	_	_	_	_
+18	a	a	DT	-	+	q:i-h-h	_	_	_	_	_	_	_	_	_	_
+19	900	_generic_year_ne_	CD	-	+	yofc:x-c	_	_	_	_	_	_	_	_	_	_
+20	number	number	NN	-	-	n_of:x	_	_	_	_	_	_	ARG2	BV	compound	ARG2
+21	to	to	TO	-	-	_	_	_	_	_	_	_	_	_	_	_
+22	call	call	VB	-	+	v:e-i-p	_	_	_	_	_	_	_	_	_	_
+23	.	_	.	-	-	_	_	_	_	_	_	_	_	_	_	_

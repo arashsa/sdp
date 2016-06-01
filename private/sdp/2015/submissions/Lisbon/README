@@ -1,0 +1,127 @@
+===============================================================================
+1. Team ID
+===============================================================================
+
+Lisbon
+
+===============================================================================
+2. Team member name(s) and affiliation(s)
+===============================================================================
+
+Andre Martins
+Instituto de Telecomunicacoes / Priberam
+
+Mariana Almeida
+Instituto de Telecomunicacoes / Priberam
+
+===============================================================================
+3. Contact information
+===============================================================================
+
+Andre Martins
+atm@priberam.pt
+
+===============================================================================
+4. Submission, i.e., ZIP file name
+===============================================================================
+
+Lisbon.tar.gz
+
+Contains the following files:
+
+en.id.open.dm.1.sdp
+en.ood.open.dm.1.sdp
+en.id.open.pas.1.sdp
+en.ood.open.pas.1.sdp
+en.id.open.psd.1.sdp
+en.ood.open.psd.1.sdp
+en.id.closed.dm.1.sdp
+en.ood.closed.dm.1.sdp
+en.id.closed.pas.1.sdp
+en.ood.closed.pas.1.sdp
+en.id.closed.psd.1.sdp
+en.ood.closed.psd.1.sdp
+cz.id.closed.pas.1.sdp
+cs.id.closed.psd.1.sdp
+cs.ood.closed.psd.1.sdp
+
+===============================================================================
+5. System specs
+===============================================================================
+
+===============================================================================
+- 5.1 Core approach
+===============================================================================
+
+Same as our previous participation in SemEval 2014 [1].
+Discriminative feature-based linear model optimized with MIRA.
+The model uses second-order features (see below);
+alternating directions dual decomposition (AD3) is used for joint decoding.
+
+===============================================================================
+- 5.2 Supervised or unsupervised
+===============================================================================
+
+Supervised.
+
+===============================================================================
+- 5.3 Critical features used
+===============================================================================
+
+* Predicate features: look at candidate predicates and their surface contexts,
+conjoining words, lemmas and POS tags. In the open track, syntactic dependency
+contexts are also used.
+* Arc factored features: look at the predicate and the argument, arc direction,
+arc length, surface contexts surrounding the predicate, the argument, and both,
+and features for words/tags lying in-between. In the open track, syntactic
+dependency contexts are also used, including the syntactic path between the
+predicate and the argument.
+* Second order features (includes siblings, grandparents, co-parents,
+consecutive siblings and consecutive co-parents): look at three words at the
+same time (features use the words and the POS tags), either one predicate and
+two arguments, or a grandparent relation, or an argument with two predicates.
+
+===============================================================================
+- 5.4 Critical tools used
+===============================================================================
+
+Toolkit for alternating directions dual decomposition (AD3) [2]; adaptation of
+the TurboParser software toolkit [3].
+
+===============================================================================
+- 5.5 Significant data pre/post-processing
+===============================================================================
+
+An unlabeled arc-factor pruner is used to reduce the set of candidate arcs.
+Basic pruning is also employed to eliminate arc labels that never occur with
+certain pairs of POS tags, or arc lengths above an upper bound. "Deterministic"
+labels (that is, semantic roles that can only occur once for each predicate)
+are also identified from the training data, and the decoder constraints
+the argument frame accordingly.
+
+===============================================================================
+- 5.6 Other data used (outside of the provided)
+===============================================================================
+
+Only the provided dependency syntactic trees (in the open track).
+
+===============================================================================
+6 References (if applicable)
+===============================================================================
+
+[1] André F. T. Martins and Mariana S. C. Almeida.
+Priberam: A Turbo Semantic Parser with Second Order Features.
+International Workshop on Semantic Evaluation (SemEval),
+task 8: Broad-Coverage Semantic Dependency Parsing, Dublin, August 2014.
+
+[2] André F. T. Martins, Mário A. T. Figueiredo, Pedro M. Q. Aguiar,
+Noah A. Smith, and Eric P. Xing.
+An Augmented Lagrangian Approach to Constrained MAP Inference.
+International Conference on Machine Learning (ICML'11), Bellevue, Washington,
+USA, June 2011.
+
+[3] André F. T. Martins, Miguel B. Almeida, Noah A. Smith.
+Turning on the Turbo: Fast Third-Order Non-Projective Turbo Parsers.
+In Annual Meeting of the Association for Computational Linguistics (ACL'13),
+Sofia, Bulgaria, August 2013.
+
